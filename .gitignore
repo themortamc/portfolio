@@ -1,0 +1,30 @@
+# Dependencias
+node_modules/
+
+# Build
+dist/
+dist-ssr/
+
+# Variables de entorno y secretos locales
+.env
+.env.*
+!.env.example
+.dev.vars
+
+# Wrangler / Cloudflare
+.wrangler/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Sistema operativo / editores
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Cachés
+*.tsbuildinfo

@@ -35,7 +35,6 @@ export const featuredProject: FeaturedProject = {
   tags: ['React', 'Vite', 'Supabase', 'Cloudflare Pages'],
   links: [
     { label: 'Ver sitio', href: 'https://webdevelop-rsi.lautaby12.workers.dev/' },
-    { label: 'GitHub', href: '#' },
   ],
   screenshots: [
     { alt: 'Página principal de WebRepuestoSanIsidro', placeholder: 'Captura 1', image: '/screenshot-1.png' },
